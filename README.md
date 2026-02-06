@@ -74,7 +74,7 @@ Follow these steps to get the project running on your local machine:
 2. **Database Setup:**
 * Open XAMPP and start **Apache** and **MySQL**.
 * Go to `http://localhost/phpmyadmin/`.
-* Create a new database named `univoice_db`.
+* Create a new database named `univoice`.
 * Import the `univoice.sql` file (found in the project folder).
 
 
@@ -87,6 +87,4 @@ Follow these steps to get the project running on your local machine:
 
 
 
----
 
-**Would you like me to help you write the specific SQL code for your tables to ensure they match these admin/user roles?**
